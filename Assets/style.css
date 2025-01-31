@@ -41,7 +41,7 @@ nav img{
     color: red;
     width: 135px;
     position: relative;
-    z-index: 10;
+    z-index: 20;
 }
 
 nav button{
